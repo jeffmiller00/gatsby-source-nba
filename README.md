@@ -47,7 +47,7 @@ GraphQL model.
 
 ## TO-DO
 
-- Complete player infor with statistics and team information
+- Complete player info with statistics and team information
 
 - Add teams information + roster
 
